@@ -20,5 +20,10 @@ namespace ISRPOlaba1_2
         {
             InitializeComponent();
         }
+
+        private void buttonShow_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Hello " + textBoxName.Text);
+        }
     }
 }
