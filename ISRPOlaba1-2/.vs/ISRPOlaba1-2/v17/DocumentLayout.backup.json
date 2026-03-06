@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\asaka\\Documents\\laba1-2\\ISRPOlaba1-2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B106579F-76BA-4055-8945-100E8A91AD51}|ISRPOlaba1-2\\ISRPOlaba1-2.csproj|c:\\users\\asaka\\documents\\laba1-2\\isrpolaba1-2\\isrpolaba1-2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B106579F-76BA-4055-8945-100E8A91AD51}|ISRPOlaba1-2\\ISRPOlaba1-2.csproj|solutionrelative:isrpolaba1-2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B106579F-76BA-4055-8945-100E8A91AD51}|ISRPOlaba1-2\\ISRPOlaba1-2.csproj|c:\\users\\asaka\\documents\\laba1-2\\isrpolaba1-2\\isrpolaba1-2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B106579F-76BA-4055-8945-100E8A91AD51}|ISRPOlaba1-2\\ISRPOlaba1-2.csproj|solutionrelative:isrpolaba1-2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\asaka\\Documents\\laba1-2\\ISRPOlaba1-2\\ISRPOlaba1-2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ISRPOlaba1-2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\asaka\\Documents\\laba1-2\\ISRPOlaba1-2\\ISRPOlaba1-2\\MainWindow.xaml",
+              "RelativeToolTip": "ISRPOlaba1-2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-06T12:32:58.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\asaka\\Documents\\laba1-2\\ISRPOlaba1-2\\ISRPOlaba1-2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ISRPOlaba1-2\\MainWindow.xaml.cs",
@@ -26,8 +42,7 @@
               "RelativeToolTip": "ISRPOlaba1-2\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:32:58.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T12:32:58.213Z"
             },
             {
               "$type": "Bookmark",
