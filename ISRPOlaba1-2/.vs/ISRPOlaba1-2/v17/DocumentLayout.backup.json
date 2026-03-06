@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\asaka\\Documents\\laba1-2\\ISRPOlaba1-2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B106579F-76BA-4055-8945-100E8A91AD51}|ISRPOlaba1-2\\ISRPOlaba1-2.csproj|c:\\users\\asaka\\documents\\laba1-2\\isrpolaba1-2\\isrpolaba1-2\\secondwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B106579F-76BA-4055-8945-100E8A91AD51}|ISRPOlaba1-2\\ISRPOlaba1-2.csproj|solutionrelative:isrpolaba1-2\\secondwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B106579F-76BA-4055-8945-100E8A91AD51}|ISRPOlaba1-2\\ISRPOlaba1-2.csproj|c:\\users\\asaka\\documents\\laba1-2\\isrpolaba1-2\\isrpolaba1-2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B106579F-76BA-4055-8945-100E8A91AD51}|ISRPOlaba1-2\\ISRPOlaba1-2.csproj|solutionrelative:isrpolaba1-2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -23,6 +27,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SecondWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\asaka\\Documents\\laba1-2\\ISRPOlaba1-2\\ISRPOlaba1-2\\SecondWindow.xaml",
+              "RelativeDocumentMoniker": "ISRPOlaba1-2\\SecondWindow.xaml",
+              "ToolTip": "C:\\Users\\asaka\\Documents\\laba1-2\\ISRPOlaba1-2\\ISRPOlaba1-2\\SecondWindow.xaml",
+              "RelativeToolTip": "ISRPOlaba1-2\\SecondWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-06T12:44:27.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\asaka\\Documents\\laba1-2\\ISRPOlaba1-2\\ISRPOlaba1-2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ISRPOlaba1-2\\MainWindow.xaml",
@@ -34,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\asaka\\Documents\\laba1-2\\ISRPOlaba1-2\\ISRPOlaba1-2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ISRPOlaba1-2\\MainWindow.xaml.cs",
@@ -43,10 +63,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T12:32:58.213Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }

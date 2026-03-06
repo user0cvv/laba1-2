@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ISRPOlaba1-2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c79758da5e9144523e15f5455c3db5f2c35894e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67682f66eb05a45bc1b06548e95d1ada263ad070")]
 [assembly: System.Reflection.AssemblyProductAttribute("ISRPOlaba1-2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ISRPOlaba1-2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

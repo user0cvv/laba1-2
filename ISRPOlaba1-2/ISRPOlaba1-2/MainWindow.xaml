@@ -7,6 +7,16 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
 
+            <TextBox Name="textBoxName" Width="200" Height="30" Margin="10"/>
+
+            <Button Name="buttonShow"
+                Content="Показать"
+                Width="200"
+                Height="40"
+                Click="buttonShow_Click"/>
+
+        </StackPanel>
     </Grid>
 </Window>
